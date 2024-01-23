@@ -10,6 +10,7 @@
    Fig. Dask system performance from html report
 
 2. [Yaml task-stream](Reports/task_stream.yaml)
+3. [Yaml Dask configuration](Reports/distributed.yaml)
     
 ## Yappi
 1. [Pstat view of the yappi report](Reports/yappi_pstat.prof)
