@@ -21,12 +21,14 @@ There are three main tools:
     
 ## Yappi
 1. [Pstat view of the yappi report](Reports/yappi_pstat.prof)
-   It call be visualized using `snakeViz`
+   
+   It can be visualized using `snakeViz`
    ![Yappi Pstat report performance](media/SnakeViz_view_yappi_report.png)
    Fig. Yappi Pstat performance from html report of Snakeviz
    
 3. [Callgrind view of the yappi report](Reports/yappi_callgrind.prof)
-   It call be visualized using `kcachegring`
+   
+   It can be visualized using `kcachegring`
    ![Yappi Callgrind report performance](media/CallGrind_view_yappi_report.png)
    Fig. Yappi CallGrind performance
    
