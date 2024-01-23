@@ -1,5 +1,12 @@
 # Recup_Data
 
+This repo contains the performance reports from running the [MiniApp](https://github.com/GueroudjiAmal/Recup/tree/main/MiniApp) in a local machine.
+
+There are three main tools:
+1. [Dask performance reports](#dask)
+2. [Yappi performance reports](#yappi)
+3. [Darshan performance reports](#darshan)
+
 ## Dask 
 1. [Original dask report](Reports/dask_perf_report.html)
    
