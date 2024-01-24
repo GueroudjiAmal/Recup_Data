@@ -1,0 +1,52 @@
+adding id to ssh file /home/agueroudji/.ssh/authorized_keys
+WORKERS_NODES= 2
+launching Scheduler
+...Connect Master Client
+Scheduler booted, Client connected, launching workers
+nprocs 4, ranks 2, depth 16
+Report generated successfully. 
+Saving report at location: /home/agueroudji/Recup/RECUP/D2024-01-24_17:48:52_W4/agueroud_mpiexec_id34780-34780_1-24-64293-6619776243181093302_1_report.html
+Report generated successfully. 
+Saving report at location: /home/agueroudji/Recup/RECUP/D2024-01-24_17:48:52_W4/agueroud_mpiexec_id34866-34866_1-24-64302-6443488004927978886_1_report.html
+Report generated successfully. 
+Saving report at location: /home/agueroudji/Recup/RECUP/D2024-01-24_17:48:52_W4/agueroud_mpiexec_id34868-34868_1-24-64302-10458833305487597491_1_report.html
+Report generated successfully. 
+Saving report at location: /home/agueroudji/Recup/RECUP/D2024-01-24_17:48:52_W4/agueroud_python3.10_id13288-13288_1-24-64302-13012924247122651239_1_report.html
+Report generated successfully. 
+Saving report at location: /home/agueroudji/Recup/RECUP/D2024-01-24_17:48:52_W4/agueroud_python3.10_id13289-13289_1-24-64302-4515926265945280793_1_report.html
+Report generated successfully. 
+Saving report at location: /home/agueroudji/Recup/RECUP/D2024-01-24_17:48:52_W4/agueroud_python3.10_id13305-13305_1-24-64307-16980872933001611199_1_report.html
+Report generated successfully. 
+Saving report at location: /home/agueroudji/Recup/RECUP/D2024-01-24_17:48:52_W4/agueroud_python3.10_id13306-13306_1-24-64307-18174902160054163607_1_report.html
+Report generated successfully. 
+Saving report at location: /home/agueroudji/Recup/RECUP/D2024-01-24_17:48:52_W4/agueroud_python3.10_id13311-13311_1-24-64307-791083710923005873_1_report.html
+Report generated successfully. 
+Saving report at location: /home/agueroudji/Recup/RECUP/D2024-01-24_17:48:52_W4/agueroud_python3.10_id13312-13312_1-24-64307-12752200791746458282_1_report.html
+Report generated successfully. 
+Saving report at location: /home/agueroudji/Recup/RECUP/D2024-01-24_17:48:52_W4/agueroud_python3.10_id34796-34796_1-24-64293-18187043021430687539_1_report.html
+Report generated successfully. 
+Saving report at location: /home/agueroudji/Recup/RECUP/D2024-01-24_17:48:52_W4/agueroud_python3.10_id53628-53628_1-24-64302-7820960438121498029_1_report.html
+Report generated successfully. 
+Saving report at location: /home/agueroudji/Recup/RECUP/D2024-01-24_17:48:52_W4/agueroud_python3.10_id53629-53629_1-24-64302-9660254940486245530_1_report.html
+Report generated successfully. 
+Saving report at location: /home/agueroudji/Recup/RECUP/D2024-01-24_17:48:52_W4/agueroud_python3.10_id53644-53644_1-24-64307-16600365636620135540_1_report.html
+Report generated successfully. 
+Saving report at location: /home/agueroudji/Recup/RECUP/D2024-01-24_17:48:52_W4/agueroud_python3.10_id53645-53645_1-24-64307-10899541618489664696_1_report.html
+Report generated successfully. 
+Saving report at location: /home/agueroudji/Recup/RECUP/D2024-01-24_17:48:52_W4/agueroud_python3.10_id53650-53650_1-24-64307-97379241663569146_1_report.html
+Report generated successfully. 
+Saving report at location: /home/agueroudji/Recup/RECUP/D2024-01-24_17:48:52_W4/agueroud_python3.10_id53651-53651_1-24-64307-3769725285515303552_1_report.html
+Report generated successfully. 
+Saving report at location: /home/agueroudji/Recup/RECUP/D2024-01-24_17:48:52_W4/agueroud_python_id40434-40434_1-24-64302-15539269381332651985_1_report.html
+Report generated successfully. 
+Saving report at location: /home/agueroudji/Recup/RECUP/D2024-01-24_17:48:52_W4/agueroud_uname_id13484-13484_1-24-64314-2637694865669867037_1_report.html
+Report generated successfully. 
+Saving report at location: /home/agueroudji/Recup/RECUP/D2024-01-24_17:48:52_W4/agueroud_uname_id13485-13485_1-24-64314-641777318979781581_1_report.html
+Report generated successfully. 
+Saving report at location: /home/agueroudji/Recup/RECUP/D2024-01-24_17:48:52_W4/agueroud_uname_id34907-34907_1-24-64310-14120905278263192610_1_report.html
+Report generated successfully. 
+Saving report at location: /home/agueroudji/Recup/RECUP/D2024-01-24_17:48:52_W4/agueroud_uname_id40551-40551_1-24-64310-13187920892931690586_1_report.html
+Report generated successfully. 
+Saving report at location: /home/agueroudji/Recup/RECUP/D2024-01-24_17:48:52_W4/agueroud_uname_id53823-53823_1-24-64314-6633065440671518724_1_report.html
+Report generated successfully. 
+Saving report at location: /home/agueroudji/Recup/RECUP/D2024-01-24_17:48:52_W4/agueroud_uname_id53824-53824_1-24-64314-15662542752614382596_1_report.html
